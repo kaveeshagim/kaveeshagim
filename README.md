@@ -57,6 +57,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaveeshagim&theme=default)](https://git.io/streak-stats)
 
+### ⌛ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaveeshagim&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
