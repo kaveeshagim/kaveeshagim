@@ -57,9 +57,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaveeshagim&theme=default)](https://git.io/streak-stats)
 
-### ⌛ Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### 🏆 GitHub Trophies
 
