@@ -2,7 +2,7 @@
 
 ### Hey there! I'm Kaveesha
 
-##### 🎓 IT graduate from UCSC | 💻 Associate Software Engineer  
+##### 🎓 IT graduate from UCSC | 💻 Software Engineer  
 ##### 🚀 Passionate about full-stack dev, DevOps, and building cool AI + real-world apps  
 ##### 🛠 Always learning. Currently leveling up in React, .NET, Spring Boot, and AI agents!
 
