@@ -68,3 +68,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@thealgorithmicgambit) 
 
 ##### 🌟 Star some of my repos if they helped you!
+
+![Profile Views](https://komarev.com/ghpvc/?username=kaveeshagim&color=blue)
+
